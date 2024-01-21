@@ -1,5 +1,5 @@
 # CODTECH IT SOLUTIONS
-Java development internship at CODTECH IT SOLUTIONS.
++ Java development internship at CODTECH IT SOLUTIONS.
 
 ## NUMBER GUESSING GAME (TASK 4)
 + Develop a program where the computer generates a random number between 1 and 100.
@@ -9,6 +9,6 @@ Java development internship at CODTECH IT SOLUTIONS.
 ## Installation
 Just,Clone this repository -
 
-[ https://github.com/nikhil-spec-22/CODTECH-IT-SOLUTIONS_JD_02.git ]
+[ https://github.com/nikhil-spec-22/CODTECH-IT-SOLUTIONS_JD_04.git ]
 
 Run File using any java application like Intellij Idea IDE or Visual Studio code
